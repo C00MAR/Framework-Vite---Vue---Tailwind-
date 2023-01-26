@@ -20,8 +20,8 @@ module.exports = {
         'hero-bg-mobile': '32rem',
       },
       backgroundImage: {
-        'hero-desktop': "url('bg-hero-desktop.png')",
-        'hero-mobile': "url('bg-hero-mobile.png')",
+        'hero-desktop': "url('asset/bg-hero-desktop.png')",
+        'hero-mobile': "url('asset/bg-hero-mobile.png')",
       }
     },
   },
