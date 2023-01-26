@@ -1,0 +1,5 @@
+@media (min-width: 1024px) {
+    .bg-hero {
+        background-image: url('../public/asset/bg-hero-desktop.png');
+    }
+}

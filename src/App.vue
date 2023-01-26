@@ -7,11 +7,13 @@ import Header from "./components/Header.vue";
 import Footer from "./components/footer.vue";
 import Arrow_Nav from "./components/arrow_nav.vue";
 import Card from "./components/card.vue";
+import hero_bg_desktop from "/asset/bg-hero-mobile.png"
 </script>
 
 <template>
 
-  <div class="lg:bg-hero-desktop bg-hero-mobile h-hero-bg-mobile lg:bg-cover lg:h-hero-bg-desktop w-full flex flex-col items-center">
+  <div :style="{ 'background-image':'url('+hero_bg_desktop+')' }" class="bg-hero h-hero-bg-mobile lg:bg-cover bg-cover lg:h-hero-bg-desktop w-full flex flex-col items-center">
+  <!-- <div class="lg:bg-hero-desktop bg-hero-mobile h-hero-bg-mobile lg:bg-cover lg:h-hero-bg-desktop w-full flex flex-col items-center"> -->
 
     <Header/>
 
