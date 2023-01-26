@@ -54,13 +54,13 @@ defineProps([""]);
           </div>
           <div>
             <ul class="flex flex-row lg:p-5">
-                <li class="  rounded-full h-12 w-12 flex items-center justify-center mr-5 lg:m-5 bg-gray-600"><a href="#"><img src="./../../instagram_icon.png" alt=""></a></li>
+                <li class="  rounded-full h-12 w-12 flex items-center justify-center mr-5 lg:m-5 bg-gray-600"><a href="#"><img src="/asset/instagram_icon.png" alt=""></a></li>
 
-                <li class=" rounded-full h-12 w-12 flex items-center justify-center mr-5 lg:m-5 bg-gray-600"><a href="#"><img src="./../../linkedin_icon.png" alt=""></a></li>
+                <li class=" rounded-full h-12 w-12 flex items-center justify-center mr-5 lg:m-5 bg-gray-600"><a href="#"><img src="/asset/linkedin_icon.png" alt=""></a></li>
 
-                <li class=" rounded-full h-12 w-12 flex items-center justify-center mr-5 lg:m-5 bg-gray-600"><a href="#"><img src="./../../podcast_icon.png" alt=""></a></li>
+                <li class=" rounded-full h-12 w-12 flex items-center justify-center mr-5 lg:m-5 bg-gray-600"><a href="#"><img src="/asset/podcast_icon.png" alt=""></a></li>
 
-                <li class="rounded-full h-12 w-12 flex items-center justify-center mr-5 lg:m-5 bg-gray-600"><a href="#"><img src="./../../youtube_icon.png" alt=""></a></li>
+                <li class="rounded-full h-12 w-12 flex items-center justify-center mr-5 lg:m-5 bg-gray-600"><a href="#"><img src="/asset/youtube_icon.png" alt=""></a></li>
             </ul>
           </div>
         </div>
