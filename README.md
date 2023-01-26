@@ -6,7 +6,7 @@ C'est un projet visant à découvir et à utiliser pour la première fois des fr
 
 ## Installation
 
-Vous pouvez accéder au projet ici : https://framework-79sx4vtg4-c00mar.vercel.app/.
+Vous pouvez accéder au projet ici : https://framework-vite-vue-tailwind.vercel.app/.
 
 Pour installer et utiliser le projet :
 
